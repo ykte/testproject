@@ -1,1 +1,11 @@
+jetzt soll k2 von beiden branches gemerged werden
+
+
+ab hier sollte ignoriert werden, habe zeichen geändert 
+
+
+<<<< HEAD
 k2 mit master geändert
+====
+eine änderung mit branch f1
+>>> feature1
